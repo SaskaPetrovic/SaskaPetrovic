@@ -18,25 +18,35 @@ Here are some ideas to get you started:
 
 </br> ![](https://media1.tenor.com/m/4WO2ncpYm-4AAAAd/happy-smiling.gif) </h2>
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/m/tzpypI9RIV8AAAAd/smile-cute.gif" height="400" width="auto">
 
 <h3>𐙚 About me </h3>
 
 ⓘ 23 years old  
-ⓘ Fullstack developer   
+
+ⓘ Fullstack developer  <img align="right" alt="GIF" src="https://media1.tenor.com/m/tzpypI9RIV8AAAAd/smile-cute.gif" height="450" width="auto">
+
 ⓘ Switzerland   
+
 ⓘ Trained at Le Wagon bootcamp  
+
 ⓘ CFC in IT at ETML  
+
 ⓘ Soft spot for cats  ᓚ₍ ^. .^₎  
+
 ⓘ Currently learning **React**
 
 </br>
 
 ♡ Web Development   
+
 ♡ UI/UX  
+
 ♡ Gaming  
+
 ♡ Anime  
+
 ♡ Cooking  
+
 ♡ Ice skating
 
 
