@@ -49,17 +49,13 @@ Here are some ideas to get you started:
 
 ♡ Ice skating
 
-
-
-
-
-
 </br> 
 
 <h3>☕︎ Connect with me</h3>
 
 ˗ˏˋ ✉︎ ˎˊ˗  **saskapetrovic.pro@gmail.com**
 </br>
+
 ˗ˏˋ ✎ ˎˊ˗  [LinkedIn](https://www.linkedin.com/in/saska-petrovic-2137072a2)
 
 </br>
