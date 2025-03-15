@@ -18,28 +18,32 @@ Here are some ideas to get you started:
 
 </br> ![](https://media.tenor.com/bPwzJxl_R0IAAAAd/ao-no-hako-blue-box.gif) </h2>
 
+<h3>𐙚 About me </h3>
 
-<h3> ۶ৎ About me</h3>
-
-- 23 years old
-- Fullstack developer
-- trained at Le Wagon bootcamp
-- CFC in IT at ETML
-- Passionate about Front-end development 
-- Specializing in both Front-end and Back-end technologies
-- Currently learning **React**
-- Anime enthusiast
-- Soft spot for cats
+ⓘ 23 years old  
+ⓘ Fullstack developer  
+ⓘ Switzerland  
+ⓘ Trained at Le Wagon bootcamp  
+ⓘ CFC in IT at ETML  
+ⓘ Soft spot for cats ᓚ₍ ^. .^₎  
+ⓘ Currently learning **React**
 
 </br>
 
-  
+♡ Web Development  
+♡ UI/UX  
+♡ Gaming  
+♡ Anime  
+♡ Cooking  
+♡ Ice Skating
+
+</br> 
 
 <h3>☕︎ Connect with me</h3>
 
-˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗ **saskapetrovic.pro@gmail.com**
+˗ˏˋ ✉︎ ˎˊ˗  **saskapetrovic.pro@gmail.com**
 </br>
-˗ˏˋ ꒰ ✎ ꒱ ˎˊ˗ [LinkedIn](https://www.linkedin.com/in/saska-petrovic-2137072a2)
+˗ˏˋ ✎ ˎˊ˗  [LinkedIn](https://www.linkedin.com/in/saska-petrovic-2137072a2)
 
 </br>
 
@@ -112,6 +116,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a> 
 </p>
+</br>
+<h3 align="left">🕮 Github History</h3>
 
-</br></br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saskapetrovic&show_icons=true&locale=en&layout=compact" alt="saskapetrovic" /> ( ◡̀_◡́)ᕤ</p>
