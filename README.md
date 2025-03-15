@@ -117,6 +117,6 @@ Here are some ideas to get you started:
   </a> 
 </p>
 </br>
-<h3 align="left">🕮 Github History</h3>
+<h3 align="left">🕮 Github history</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saskapetrovic&show_icons=true&locale=en&layout=compact" alt="saskapetrovic" /> ( ◡̀_◡́)ᕤ</p>
