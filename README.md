@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3>𐙚 About me </h3>
 
-ⓘ 23 years old  
+ⓘ 23 years old   <img align="right" alt="GIF" src="https://media1.tenor.com/m/tzpypI9RIV8AAAAd/smile-cute.gif" height="450" width="auto">
 
-ⓘ Fullstack developer  <img align="right" alt="GIF" src="https://media1.tenor.com/m/tzpypI9RIV8AAAAd/smile-cute.gif" height="450" width="auto">
+ⓘ Fullstack developer 
 
 ⓘ Switzerland   
 
